@@ -1,0 +1,15 @@
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\bin\Debug\net6.0\Calculo-Media-Alunos.exe
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\bin\Debug\net6.0\Calculo-Media-Alunos.deps.json
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\bin\Debug\net6.0\Calculo-Media-Alunos.runtimeconfig.json
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\bin\Debug\net6.0\Calculo-Media-Alunos.dll
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\bin\Debug\net6.0\Calculo-Media-Alunos.pdb
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\obj\Debug\net6.0\Calculo-Media-Alunos.csproj.AssemblyReference.cache
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\obj\Debug\net6.0\Calculo-Media-Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\obj\Debug\net6.0\Calculo-Media-Alunos.AssemblyInfoInputs.cache
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\obj\Debug\net6.0\Calculo-Media-Alunos.AssemblyInfo.cs
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\obj\Debug\net6.0\Calculo-Media-Alunos.csproj.CoreCompileInputs.cache
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\obj\Debug\net6.0\Calculo-Media-Alunos.dll
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\obj\Debug\net6.0\refint\Calculo-Media-Alunos.dll
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\obj\Debug\net6.0\Calculo-Media-Alunos.pdb
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\obj\Debug\net6.0\Calculo-Media-Alunos.genruntimeconfig.cache
+C:\Users\joaol\source\repos\Calculo-Media-Alunos\Calculo-Media-Alunos\obj\Debug\net6.0\ref\Calculo-Media-Alunos.dll
